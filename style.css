@@ -1,0 +1,28 @@
+.heading{
+    font-size: 20px;
+    width: 100%;
+    margin: 10px;
+    box-shadow: 5px 5px 5px grey;
+}
+.note{
+    font-size: 17px;
+    color: black;
+}
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 10px;
+    width: 100%;
+    background: rgb(151, 146, 146);
+    line-height: 25px;
+    text-align: center;
+}
+canvas{
+    border: 10px white solid;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+body{
+    background-image:url("https://wallpapercave.com/wp/wp1908238.jpg");
+    font-family: 'Anton';
+}
